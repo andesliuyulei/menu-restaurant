@@ -30,6 +30,12 @@
 			"name": "Dừa tươi",
 			"images": ["http://tapchilamdep.com/images//news/larg_images/year2009/month6/2906091238756422-nuocdua1.jpg"],
 			"price":	"15000"
+		},
+		{
+			"id": "6",
+			"name": "Sinh Tố Dừa",
+			"images": ["http://tapchilamdep.com/images//news/larg_images/year2009/month6/2906091238756422-nuocdua1.jpg"],
+			"price":	"25000"
 		}
 	]
 	
