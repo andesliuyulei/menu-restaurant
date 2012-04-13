@@ -1,0 +1,36 @@
+{
+	"category":"drinks",
+	"poi_list": [
+		{
+			"id": "1",
+			"name": "Sting dâu",
+			"images": ["http://sieuthitiendung.com/Images/Products/4/810841.jpg"],
+			"price":	"10000"
+		},
+		{
+			"id": "2",
+			"name": "Pepsi",
+			"images": ["http://doodlesplatter.com/wordpress/wp-content/uploads/2008/11/pepsi-united-kingdom-jon-burgerman.jpg"],
+			"price":	"10000"
+		},
+		{
+			"id": "3",
+			"name": "Sinh tố bơ",
+			"images": ["http://vkshue.gov.vn/liem/images/stories/hinhanh/vitaminc.jpg"],
+			"price":	"25000"
+		},
+		{
+			"id": "4",
+			"name": "Trái cây dĩa",
+			"images": ["http://t2.gstatic.com/images?q=tbn:ANd9GcTcjb9aiu0fagjZOwXmzeMjth03wSu0ZUQMzFlX3_3Ydq8J7JIdpk-e0b1d"],
+			"price":	"20000"
+		},
+		{
+			"id": "5",
+			"name": "Dừa tươi",
+			"images": ["http://tapchilamdep.com/images//news/larg_images/year2009/month6/2906091238756422-nuocdua1.jpg"],
+			"price":	"15000"
+		}
+	]
+	
+}
