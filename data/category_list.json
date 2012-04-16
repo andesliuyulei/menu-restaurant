@@ -1,0 +1,17 @@
+{
+	"category_list": [
+		{
+			"category_name": "breakfast",
+			"lut": "1"
+		},
+		{
+			"category_name": "lunch",
+			"lut": "1"
+		},
+		{
+			"category_name": "drinks",
+			"lut": "1"
+		}
+	]
+
+}

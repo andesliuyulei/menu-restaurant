@@ -1,0 +1,36 @@
+{
+	"category":"lunch",
+	"poi_list": [
+		{
+			"id": "1",
+			"name": "Canh Chua",
+			"images": ["http://imagecollectionforu.com/images/78521743203600462325.jpg"],
+			"price":	"30000"
+		},
+		{
+			"id": "2",
+			"name": "Cá rô kho tộ",
+			"images": ["http://files.myopera.com/hoacomay70/blog/ro-dong-kho1.jpg"],
+			"price":	"25000"
+		},
+		{
+			"id": "3",
+			"name": "Sườn xào chua ngọt",
+			"images": ["http://thubay.vn/ImageItems/suonchuangot1.jpg"],
+			"price":	"28000"
+		},
+		{
+			"id": "4",
+			"name": "Rau muống xào",
+			"images": ["http://www.ubvk.hochiminhcity.gov.vn/Uploads/thienmy/rau%20muong.jpeg"],
+			"price":	"20000"
+		},
+		{
+			"id": "5",
+			"name": "Mực xào thập cẩm",
+			"images": ["http://monan.vn/forum/attachment.php?attachmentid=2576&d=1291625979"],
+			"price":	"30000"
+		}
+	]
+	
+}
