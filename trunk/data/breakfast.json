@@ -1,0 +1,36 @@
+{
+	"category":"breakfast",
+	"poi_list": [
+		{
+			"id": "1",
+			"name": "Beefsteak",
+			"images": ["http://discardedlies.com/images/beefsteak.jpg"],
+			"price":	"50000"
+		},
+		{
+			"id": "2",
+			"name": "Phở",
+			"images": ["http://viettin.de/uploads/news/2011_11/phohn.jpg"],
+			"price":	"25000"
+		},
+		{
+			"id": "3",
+			"name": "Bún Bò Huế",
+			"images": ["http://www.plu.edu/~phungaa/img/bhue.jpg"],
+			"price":	"26000"
+		},
+		{
+			"id": "4",
+			"name": "Hủ Tiếu Nam Vang",
+			"images": ["http://t3.gstatic.com/images?q=tbn:ANd9GcT7Y7Z0_Gr6dcgNE_yZVbraMbUjSajZfHTjMhU9P60Fih23K1TLeX2MyAaspg"],
+			"price":	"26000"
+		},
+		{
+			"id": "5",
+			"name": "Hoành Thánh",
+			"images": ["http://singaporehomestay.vn/sites/s/sg/sgh/uploads/Image/Singapore/Mi_sui_cao_Mi_hoanh_thanh.jpg"],
+			"price":	"25000"
+		}
+	]
+	
+}
