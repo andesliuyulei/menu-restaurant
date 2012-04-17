@@ -1,0 +1,248 @@
+﻿<item>
+<food>
+<id>1</id>
+<title>Beefsteak</title>
+<category>Breakfast</category>
+<price>50000</price>
+<thumb_url>http://discardedlies.com/images/beefsteak.jpg</thumb_url>
+</food>
+<food>
+<id>2</id>
+<title>Phở</title>
+<category>Breakfast</category>
+<price>30000</price>
+<thumb_url>
+http://viettin.de/uploads/news/2011_11/phohn.jpg
+</thumb_url>
+</food>
+<food>
+<id>3</id>
+<title>Bún Bò Huế</title>
+<category>Breakfast</category>
+<price>30000</price>
+<thumb_url>http://www.plu.edu/~phungaa/img/bhue.jpg</thumb_url>
+</food>
+<food>
+<id>4</id>
+<title>Hủ Tiếu Nam Vang</title>
+<category>Breakfast</category>
+<price>30000</price>
+<thumb_url>
+http://t3.gstatic.com/images?q=tbn:ANd9GcT7Y7Z0_Gr6dcgNE_yZVbraMbUjSajZfHTjMhU9P60Fih23K1TLeX2MyAaspg
+</thumb_url>
+</food>
+<food>
+<id>5</id>
+<title>Hoành Thánh</title>
+<category>Breakfast</category>
+<price>30000</price>
+<thumb_url>
+http://singaporehomestay.vn/sites/s/sg/sgh/uploads/Image/Singapore/Mi_sui_cao_Mi_hoanh_thanh.jpg
+</thumb_url>
+</food>
+<food>
+<id>6</id>
+<title>Sting Dâu</title>
+<category>Drinks</category>
+<price>15000</price>
+<thumb_url>
+http://sieuthitiendung.com/Images/Products/4/810841.jpg
+</thumb_url>
+</food>
+<food>
+<id>7</id>
+<title>Pepsi</title>
+<category>Drinks</category>
+<price>15000</price>
+<thumb_url>http://doodlesplatter.com/wordpress/wp-content/uploads/2008/11/pepsi-united-kingdom-jon-burgerman.jpg</thumb_url>
+</food>
+<food>
+<id>8</id>
+<title>Sinh Tố Bơ</title>
+<category>Drinks</category>
+<price>25000</price>
+<thumb_url>
+http://vkshue.gov.vn/liem/images/stories/hinhanh/vitaminc.jpg
+</thumb_url>
+</food>
+<food>
+<id>9</id>
+<title>Trái Cây Dĩa</title>
+<category>Drinks</category>
+<price>23000</price>
+<thumb_url>http://t2.gstatic.com/images?q=tbn:ANd9GcTcjb9aiu0fagjZOwXmzeMjth03wSu0ZUQMzFlX3_3Ydq8J7JIdpk-e0b1d</thumb_url>
+</food>
+<food>
+<id>10</id>
+<title>Dừa Tươi</title>
+<category>Drinks</category>
+<price>20000</price>
+<thumb_url>
+http://tapchilamdep.com/images//news/larg_images/year2009/month6/2906091238756422-nuocdua1.jpg
+</thumb_url>
+</food>
+<food>
+<id>11</id>
+<title>Sinh Tố Dừa</title>
+<category>Drinks</category>
+<price>25000</price>
+<thumb_url>http://tapchilamdep.com/images//news/larg_images/year2009/month6/2906091238756422-nuocdua1.jpg</thumb_url>
+</food>
+<food>
+<id>12</id>
+<title>Canh Chua</title>
+<category>Lunch</category>
+<price>40000</price>
+<thumb_url>
+http://imagecollectionforu.com/images/78521743203600462325.jpg
+</thumb_url>
+</food>
+<food>
+<id>13</id>
+<title>Cá Rô Kho Tộ</title>
+<category>Lunch</category>
+<price>40000</price>
+<thumb_url>http://files.myopera.com/hoacomay70/blog/ro-dong-kho1.jpg</thumb_url>
+</food>
+<food>
+<id>14</id>
+<title>Sườn Xào Chua Ngọt</title>
+<category>Lunch</category>
+<price>40000</price>
+<thumb_url>
+http://thubay.vn/ImageItems/suonchuangot1.jpg
+</thumb_url>
+</food>
+<food>
+<id>15</id>
+<title>Rau Muống Xào</title>
+<category>Lunch</category>
+<price>35000</price>
+<thumb_url>
+http://www.ubvk.hochiminhcity.gov.vn/Uploads/thienmy/rau%20muong.jpeg
+</thumb_url>
+</food>
+<food>
+<id>16</id>
+<title>Mực Xào Thập Cẩm</title>
+<category>Lunch</category>
+<price>40000</price>
+<thumb_url>
+http://monan.vn/forum/attachment.php?attachmentid=2576&d=1291625979
+</thumb_url>
+</food>
+<food>
+<id>17</id>
+<title>Life For Rent</title>
+<category>Dido</category>
+<price>3:41</price>
+<thumb_url>http://api.androidhive.info/music/images/dido.png</thumb_url>
+</food>
+<food>
+<id>18</id>
+<title>Love To See You Cry</title>
+<category>Enrique Iglesias</category>
+<price>4:07</price>
+<thumb_url>
+http://api.androidhive.info/music/images/enrique.png
+</thumb_url>
+</food>
+<food>
+<id>19</id>
+<title>The Good, The Bad And The Ugly</title>
+<category>Ennio Morricone</category>
+<price>2:42</price>
+<thumb_url>http://api.androidhive.info/music/images/ennio.png</thumb_url>
+</food>
+<food>
+<id>20</id>
+<title>Show me the meaning</title>
+<category>Backstreet Boys</category>
+<price>3:56</price>
+<thumb_url>
+http://api.androidhive.info/music/images/backstreet_boys.png
+</thumb_url>
+</food>
+<food>
+<id>21</id>
+<title>Someone Like You</title>
+<category>Adele</category>
+<price>4:47</price>
+<thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
+</food>
+<food>
+<id>22</id>
+<title>Space Bound</title>
+<category>Eminem</category>
+<price>4:38</price>
+<thumb_url>
+http://api.androidhive.info/music/images/eminem.png
+</thumb_url>
+</food>
+<food>
+<id>23</id>
+<title>Stranger In Moscow</title>
+<category>Michael Jackson</category>
+<price>5:44</price>
+<thumb_url>http://api.androidhive.info/music/images/mj.png</thumb_url>
+</food>
+<food>
+<id>24</id>
+<title>Love The Way You Lie</title>
+<category>Rihanna</category>
+<price>4:23</price>
+<thumb_url>
+http://api.androidhive.info/music/images/rihanna.png
+</thumb_url>
+</food>
+<food>
+<id>25</id>
+<title>Khwaja Mere Khwaja</title>
+<category>A R Rehman</category>
+<price>6:58</price>
+<thumb_url>
+http://api.androidhive.info/music/images/arrehman.png
+</thumb_url>
+</food>
+<food>
+<id>26</id>
+<title>All My Days</title>
+<category>Alexi Murdoch</category>
+<price>4:47</price>
+<thumb_url>
+http://api.androidhive.info/music/images/alexi_murdoch.png
+</thumb_url>
+</food>
+<food>
+<id>27</id>
+<title>Life For Rent</title>
+<category>Dido</category>
+<price>3:41</price>
+<thumb_url>http://api.androidhive.info/music/images/dido.png</thumb_url>
+</food>
+<food>
+<id>28</id>
+<title>Love To See You Cry</title>
+<category>Enrique Iglesias</category>
+<price>4:07</price>
+<thumb_url>
+http://api.androidhive.info/music/images/enrique.png
+</thumb_url>
+</food>
+<food>
+<id>29</id>
+<title>The Good, The Bad And The Ugly</title>
+<category>Ennio Morricone</category>
+<price>2:42</price>
+<thumb_url>http://api.androidhive.info/music/images/ennio.png</thumb_url>
+</food>
+<food>
+<id>30</id>
+<title>Show me the meaning</title>
+<category>Backstreet Boys</category>
+<price>3:56</price>
+<thumb_url>
+http://api.androidhive.info/music/images/backstreet_boys.png
+</thumb_url>
+</food>
+</item>
