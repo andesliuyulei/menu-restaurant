@@ -5,91 +5,91 @@
                 "title": "Bo Beefsteak",
                 "category": "Breakfast",
                 "price": "50000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "2",
                 "title": "Pho",
                 "category": "Breakfast",
                 "price": "30000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "3",
                 "title": "Bun Bo hue",
                 "category": "Breakfast",
                 "price": "30000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "4",
                 "title": "Hu Tieu Nam Vang",
                 "category": "Breakfast",
                 "price": "30000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "5",
                 "title": "Hoanh Thanh",
                 "category": "Breakfast",
                 "price": "30000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "6",
                 "title": "Sting Dau",
                 "category": "Drinks",
                 "price": "15000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "7",
                 "title": "Pepsi",
                 "category": "Drinks",
                 "price": "15000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "8",
                 "title": "Sinh To Bo",
                 "category": "Drinks",
                 "price": "25000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "9",
                 "title": "Trai Cay Dia",
                 "category": "Drinks",
                 "price": "23000",
-                "thumb_url":["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url":"http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "10",
                 "title": "Dua Tuoi",
                 "category": "Drinks",
                 "price": "20000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "11",
                 "title": "Sinh To Dua",
                 "category": "Drinks",
                 "price": "25000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "12",
                 "title": "Canh Chua",
                 "category": "Lunch",
                 "price": "40000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         },
         {
                 "id": "13",
                 "title": "Ca Ro Kho To",
                 "category": "Lunch",
                 "price": "40000",
-                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+                "thumb_url": "http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"
         }
     ]
 }
