@@ -1,121 +1,95 @@
-[{
-  "project_title" : "Beefsteak",
-  "organization_title" : "Breakfast",
-  "keyword" : "Breakfast",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "50000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Phở",
-  "organization_title" : "Breakfast",
-  "keyword" : "Breakfast",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "25000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Bún Bò Huế",
-  "organization_title" : "Breakfast",
-  "keyword" : "Breakfast",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "25000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Hủ Tiếu Nam Vang",
-  "organization_title" : "Breakfast",
-  "keyword" : "Breakfast",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "25000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Hoành Thánh",
-  "organization_title" : "Breakfast",
-  "keyword" : "Breakfast",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "25000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Sting Dâu",
-  "organization_title" : "Drinks",
-  "keyword" : "Drinks",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "15000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Pepsi",
-  "organization_title" : "Drinks",
-  "keyword" : "Drinks",
-  "short_code" : "54321",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "13000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Sinh Tố Bơ",
-  "organization_title" : "Drinks",
-  "keyword" : "Drinks",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "30000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Trái Cây Dĩa",
-  "organization_title" : "Drinks",
-  "keyword" : "Drinks",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "22000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Dừa Tươi",
-  "organization_title" : "Drinks",
-  "keyword" : "Drinks",
-  "short_code" : "12345",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "15000",
-  "country" : "VND"
-  },   
-  {
-  "project_title" : "Sinh Tố Dừa",
-  "organization_title" : "Drinks",
-  "keyword" : "Drinks",
-  "short_code" : "81190",
-  "project_description" : "NGON BO RE",
-  "smallImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "bigImageUrl" : "http://api.androidhive.info/music/images/adele.png",
-  "price" : "28000",
-  "country" : "VND"
-  }]
+{
+    "food": [
+        {
+                "id": "1",
+                "title": "Bo Beefsteak",
+                "category": "Breakfast",
+                "price": "50000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "2",
+                "title": "Pho",
+                "category": "Breakfast",
+                "price": "30000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "3",
+                "title": "Bun Bo hue",
+                "category": "Breakfast",
+                "price": "30000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "4",
+                "title": "Hu Tieu Nam Vang",
+                "category": "Breakfast",
+                "price": "30000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "5",
+                "title": "Hoanh Thanh",
+                "category": "Breakfast",
+                "price": "30000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "6",
+                "title": "Sting Dau",
+                "category": "Drinks",
+                "price": "15000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "7",
+                "title": "Pepsi",
+                "category": "Drinks",
+                "price": "15000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "8",
+                "title": "Sinh To Bo",
+                "category": "Drinks",
+                "price": "25000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "9",
+                "title": "Trai Cay Dia",
+                "category": "Drinks",
+                "price": "23000",
+                "thumb_url":["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "10",
+                "title": "Dua Tuoi",
+                "category": "Drinks",
+                "price": "20000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "11",
+                "title": "Sinh To Dua",
+                "category": "Drinks",
+                "price": "25000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "12",
+                "title": "Canh Chua",
+                "category": "Lunch",
+                "price": "40000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        },
+        {
+                "id": "13",
+                "title": "Ca Ro Kho To",
+                "category": "Lunch",
+                "price": "40000",
+                "thumb_url": ["http://www.lz95.org/assets/1/9/72x72/bag_of_food.jpeg"]
+        }
+    ]
+}
